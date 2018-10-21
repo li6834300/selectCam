@@ -30,3 +30,15 @@
     transform: rotate(360deg);
   }
 }
+
+li {
+  list-style: none;
+}
+.textContainer{
+  text-align: center;
+  font-size: 50px;
+}
+
+.animcation-text{
+
+}
